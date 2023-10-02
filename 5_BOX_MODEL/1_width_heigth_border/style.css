@@ -7,5 +7,15 @@
     /* shorthand => vários valores na mesma propriedade */
     border: 2px solid #8a2be2;
 
-    width: 50px;
+    width: 200px;
+}
+
+.imagem_width{
+    width: 1000px;
+}
+
+.caixa_heigth {
+    border: 3px dashed #8a2be2;
+    height: 100px;
+    width: 100px;
 }
