@@ -1,0 +1,11 @@
+.caixa_width{
+    /* espressura, tipo e cor > width, style, color*/
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: #8a2be2; */
+
+    /* shorthand => vários valores na mesma propriedade */
+    border: 2px solid #8a2be2;
+
+    width: 50px;
+}
